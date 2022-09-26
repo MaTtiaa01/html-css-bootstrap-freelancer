@@ -1,0 +1,10 @@
+/* debug  */
+
+.debug header .row{
+    background-color: red;
+    height: 300px;
+}
+
+.debug [class^="col"]{
+    border: 2px solid black;
+}
