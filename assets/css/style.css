@@ -107,6 +107,9 @@ footer .footer_top .buble{
     color: var(--bs-primary);
 }
 
+footer .footer_top .row .col-12 .text_big{
+    font-size: 20px;
+}
 
 
 footer .footer_bottom{
