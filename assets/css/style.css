@@ -57,15 +57,26 @@ main .jumbo{
 
 
 main .jumbo .decoration .left_bar, main .jumbo .decoration .right_bar{
-    height: 2px;
+    height: 3px;
     border-radius: 2px;
     background-color: var(--bs-lighter);
     width: 10%;
 }
 
 main .portfolio .decoration .left_bar, main .portfolio .decoration .right_bar{
-    height: 2px;
+    height: 3px;
     border-radius: 2px;
     background-color: var(--bs-secondary);
+    width: 10%;
+}
+
+main .about{
+    background-color: var(--bs-primary);
+}
+
+main .about .decoration .left_bar, main .about .decoration .right_bar{
+    height: 3px;
+    border-radius: 2px;
+    background-color: var(--bs-lighter);
     width: 10%;
 }
