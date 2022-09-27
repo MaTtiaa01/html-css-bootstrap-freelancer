@@ -13,7 +13,11 @@ img{
 }
 
 
+/* utiities */
 
+.pb_6{
+    padding-bottom: 6rem;
+}
 
 
 
@@ -79,4 +83,16 @@ main .about .decoration .left_bar, main .about .decoration .right_bar{
     border-radius: 2px;
     background-color: var(--bs-lighter);
     width: 10%;
+}
+
+
+main .contact .decoration .left_bar, main .contact .decoration .right_bar{
+    height: 3px;
+    border-radius: 2px;
+    background-color: var(--bs-secondary);
+    width: 10%;
+}
+
+main .contact .container .send{
+    background-color: var(--bs-primary);
 }
