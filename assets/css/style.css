@@ -84,9 +84,11 @@ main .contact .decoration .left_bar, main .contact .decoration .right_bar{
     width: 10%;
 }
 
-main .contact .container .send{
+main .contact .send{
     background-color: var(--bs-primary);
 }
+
+
 
 
 
