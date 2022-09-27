@@ -1,4 +1,30 @@
+:root{
+    --bs-primary: #1ABC9C;
+    --bs-secondary: #2C3E50;
+    --bs-secondarylight: #3A546D;
+    --bs-lighter: #FFFFFF;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* debug  */
+
+
 
 .debug header .row{
     background-color: red;
@@ -12,4 +38,10 @@
 
 .debug .about{
     height: 500px;
+}
+
+/* #region header */
+
+header .navbar{
+    background-color: var(--bs-secondarylight);
 }
