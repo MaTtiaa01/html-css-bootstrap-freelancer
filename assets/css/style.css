@@ -88,7 +88,10 @@ main .contact .send{
     background-color: var(--bs-primary);
 }
 
-
+main .contact form{
+    max-width: 900px ;
+    margin: auto;
+}
 
 
 /* #region footer */
